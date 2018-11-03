@@ -18,6 +18,8 @@ Our hypothesis was in based on published data the increase greenhouse gas emissi
 3.- Climate Change Indicators: Ocean Acidity; https://www.epa.gov/climate-indicators/climate-change-indicators-ocean-acidity 
 
 4.- http://www.reefbase.org/gis_maps/datasets.aspx
+
 5.- https://www.pifsc.noaa.gov/cred/ocean_acidification.php
+
 6.- https://www.iucn.org/resources/issues-briefs/ocean-warming
 
