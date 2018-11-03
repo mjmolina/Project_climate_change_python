@@ -6,10 +6,10 @@ Our research question was focus in understand which factors are affecting the co
 
 Our hypothesis was in based on published data the increase greenhouse gas emissiond have caused warmer and acidics oceans producing in coral bleaching due the thermal and the acidications in coral reefs. 
 
+### Overview:
+![pdf](climate_change.jpg "Logo Title Text 1")
 
-![pdf](climate_change2.pdf "Logo Title Text 1")
-
-# Some important information and resources:
+## Some important information and resources:
 
 1.- National Ocean Service, What is coral bleaching? https://oceanservice.noaa.gov/facts/coral_bleach.html 
 
