@@ -2,7 +2,7 @@
 
 The information below was the part that I did for the collaborative project called: "Climate change and biodiversity" during the Challenge course from Udacity in data analytics. 
 
-Our research question was focus in understand which factors are affecting the coral bleaching and which influence had this process in the biodiversity.
+Our research question was focus on understand which factors are affecting the coral bleaching and which influence had this process in the biodiversity.
 
 Our hypothesis was in based on published data the increase greenhouse gas emissiond have caused warmer and acidics oceans producing in coral bleaching due the thermal and the acidications in coral reefs. 
 
